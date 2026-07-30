@@ -1,5 +1,6 @@
 # 🌱 WML Bio Tech
--- click for live priview[https://prabhanjan-polai.github.io/WML-BIO-TECH/]
+click for live preview[ https://prabhanjan-polai.github.io/WML-BIO-TECH/ ]
+---
 WML Bio Tech is an agricultural biotechnology company dedicated to empowering farmers with **high‑quality, scientifically developed seeds**. Our mission is to maximize crop productivity while promoting sustainable farming practices.
 
 ---
